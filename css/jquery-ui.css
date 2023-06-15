@@ -1017,7 +1017,7 @@ a.ui-button:active,
 .ui-state-error,
 .ui-widget-content .ui-state-error,
 .ui-widget-header .ui-state-error {
-	border: 1px solid #f1a899;
+	border: 1px solid rgb(254, 215, 0);
 	background: #fddfdf;
 	color: #5f3f3f;
 }
