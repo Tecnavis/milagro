@@ -254,7 +254,7 @@ button {
 }
 
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
-    color: #db5660;
+    color: rgb(254, 215, 0);
 }
 .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 0.9rem;
@@ -267,7 +267,7 @@ button {
 	width: 100%;
 	float: left;
 	font-size: 30pt;
-	color: #db5660;
+	color: rgb(254, 215, 0);
 }
 
 .mens_text{
@@ -289,7 +289,7 @@ button {
 	width: 32%;
 	height: 50px;
 	color: #ffffff;
-	background-color: #ff4e5b;
+	background-color:rgb(254, 215, 0);
 	color: #ffffff;
 	font-size: 16pt;
  }
@@ -299,7 +299,7 @@ button {
 	height: 50px;
 	color: #ffffff;
 	background-color: #ffffff;
-	color: #ff4e5b;
+	color: rgb(254, 215, 0);
 	font-size: 16pt;
 	margin-left: 25px;
  }
@@ -468,7 +468,7 @@ body{
 	width: 32%;
 	height: 50px;
 	color: #ffffff;
-	background-color: #ff4e5b;
+	background-color: rgb(254, 215, 0);
 	color: #ffffff;
 	font-size: 16pt;	
 	margin-top: 35px;
@@ -494,7 +494,7 @@ body{
     text-align: center; 
     font-weight: bold; 
     font-size: 40px; 
-    background-color: #db5660;
+    background-color: rgb(254, 215, 0);
     padding: 30px 0px;  
 }
 
@@ -502,7 +502,7 @@ body{
 	width: 100%;
 	float: left;
 	font-size: 45pt;
-	color: #ed2540;
+	color:rgb(254, 215, 0);
 	line-height: 75px;
 }
 
@@ -510,7 +510,7 @@ body{
 	width: 100%;
 	float: left;
 	font-size: 45pt;
-	color: #ed2540;
+	color: rgb(254, 215, 0);
 	line-height: 75px;
 
 }
@@ -519,7 +519,7 @@ body{
 	width: 50%;
 	height: 50px;
 	color: #ffffff;
-	background-color: #ff4e5b;
+	background-color:rgb(254, 215, 0);
 	color: #ffffff;
 	font-size: 16pt;	
 	margin-top: 35px;
@@ -528,7 +528,7 @@ body{
 .gallery_section{
 	width: 100%;
 	float: left;
-	background-color: #ff4e5b;
+	background-color:rgb(254, 215, 0);
 	height: auto;
 
 }
@@ -634,7 +634,7 @@ body{
     text-align: center;
 }
 .main_bt {
-    background: #ff4e5b;
+    background: rgb(254, 215, 0);
     border: none;
     width: 170px;
     height: 58px;
@@ -653,9 +653,11 @@ a:hover {
 .shop_banner{
 	width: 100%;
 	float: left;
-	background-image: url(../images/shop-banner.png);
-	height: auto;
-	padding: 70px;
+    height: auto;
+    background-repeat: no-repeat;
+	/* padding: 70px; */
+    margin: 100px;
+    background-image: url(../images/yellowlite.png);
 }
 
 .our_shop {
@@ -663,6 +665,9 @@ a:hover {
     float: left;
     padding-top: 205px;
     padding-bottom: 205px;
+    background-image: url(../images/young-woman-choosing-shoes-flirty-bending-her-leg_88135-14935.avif);
+    background-repeat: no-repeat;
+    margin: 10px;
 }
 .out_shop_bt {
     width: 40%;
@@ -708,7 +713,7 @@ a:hover {
     width: 100%;
     float: left;
     font-size: 28px;
-    color: #ebebeb;
+    color:rgb(254, 215, 0);
 }
 .dummy_text {
     width: 100%;
@@ -720,9 +725,10 @@ a:hover {
     line-height: 25px;
 }
 .image-icon {
-    width: 100%;
+    width: 25%;
     float: left;
     padding-top: 6px;
+    padding-right: 6px;
 }
 .pet_text {
     font-size: 12pt;
@@ -737,7 +743,7 @@ a:hover {
     width: 100%;
     float: left;
     font-size: 28px;
-    color: #ebebeb;
+    color: rgb(254, 215, 0)
 }
 
 .copyright {
@@ -747,7 +753,7 @@ a:hover {
     color: #ffffff;
     text-align: center;
     padding: 10px 0px;
-    background-color: #ff4e5b;
+    background-color:rgb(254, 215, 0);
     font-family: Poppins;
 }
 
@@ -777,7 +783,7 @@ a:hover {
 .subscribr_bt {
     width: 80%;
     float: right;
-    background-color: #ff4e5b;
+    background-color:rgb(254, 215, 0);
     font-size: 13pt;
     height: 50px;
     color: #ffffff;
